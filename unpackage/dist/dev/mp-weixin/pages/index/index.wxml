@@ -1,0 +1,1 @@
+<view><navigator url="/pages/index/api" open-type="switchTab">我是首页</navigator><form data-event-opts="{{[['submit',[['',['$event']]]],['reset',[['',['$event']]]]]}}" bindsubmit="__e" bindreset="__e"><button form-type="submit">Submit</button><button form-type="reset">Reset</button></form></view>
